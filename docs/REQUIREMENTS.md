@@ -55,3 +55,5 @@
 
 - [x] require -> import 문으로 변경
 - [x] 파라미터 type을 이름에 맞게 변경하기 (number: typeof number)
+
+- [ ] 테스트 성공?
